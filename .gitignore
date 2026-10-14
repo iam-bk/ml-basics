@@ -1,0 +1,7 @@
+# Track only the neural-network folder (repo = ml-basics umbrella)
+/*
+!/README.md
+!/.gitignore
+!/neura-network/
+.DS_Store
+__pycache__/
